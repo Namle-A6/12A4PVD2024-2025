@@ -1,0 +1,324 @@
+[
+  {
+    "STT": 1,
+    "HoTen": "Lê Huỳnh Duy Anh",
+    "NgaySinh": "25/06/2007",
+    "ChucVu": "TNXK",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 2,
+    "HoTen": "Nguyễn Việt Anh",
+    "NgaySinh": "29/07/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 3,
+    "HoTen": "Phạm Đào Quốc Anh",
+    "NgaySinh": "20/05/2007",
+    "ChucVu": "TNXK",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 4,
+    "HoTen": "Lương Hồng Kim Bảo",
+    "NgaySinh": "20/05/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 5,
+    "HoTen": "Ngô Quốc Bình",
+    "NgaySinh": "17/11/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 6,
+    "HoTen": "Huỳnh Ngọc Lan Chi",
+    "NgaySinh": "26/12/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 7,
+    "HoTen": "Nguyễn Ngọc Kiên Cường",
+    "NgaySinh": "22/08/2007",
+    "ChucVu": "TNXK",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 8,
+    "HoTen": "Đỗ Nguyễn Ngọc Duy",
+    "NgaySinh": "08/01/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 9,
+    "HoTen": "Lê Thị Ngọc Điệp",
+    "NgaySinh": "29/12/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 10,
+    "HoTen": "Phan Hữu Đức",
+    "NgaySinh": "29/03/2007",
+    "ChucVu": "Tổ trưởng tổ 1",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 11,
+    "HoTen": "Trịnh Ngọc Hải",
+    "NgaySinh": "08/08/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 12,
+    "HoTen": "Nguyễn Lê Ngọc Hân",
+    "NgaySinh": "07/09/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 13,
+    "HoTen": "Võ Lê Ngọc Hân",
+    "NgaySinh": "30/01/2007",
+    "ChucVu": "Sao đỏ",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 14,
+    "HoTen": "Châu Thị Kim Hoa",
+    "NgaySinh": "02/06/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 15,
+    "HoTen": "Nguyễn Hoàng Huy",
+    "NgaySinh": "28/09/2006",
+    "ChucVu": "Lớp phó lao động",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 16,
+    "HoTen": "Nguyễn Phúc Gia Hưng",
+    "NgaySinh": "02/08/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 17,
+    "HoTen": "Nguyễn Bách Khang",
+    "NgaySinh": "22/07/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 18,
+    "HoTen": "Tạ Vũ Chí Khang",
+    "NgaySinh": "28/08/2007",
+    "ChucVu": "Phó bí thư",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 19,
+    "HoTen": "Trần Minh Khang",
+    "NgaySinh": "19/10/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 20,
+    "HoTen": "Nguyễn Thành Luân",
+    "NgaySinh": "05/06/2007",
+    "ChucVu": "TNXK",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 21,
+    "HoTen": "Trương Xuân Ngọc Mai",
+    "NgaySinh": "25/09/2007",
+    "ChucVu": "Sao đỏ",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 22,
+    "HoTen": "Nguyễn Lê Nam",
+    "NgaySinh": "15/08/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 23,
+    "HoTen": "Mai Phương Ngân",
+    "NgaySinh": "16/08/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 24,
+    "HoTen": "Nguyễn Tuyết Ngân",
+    "NgaySinh": "20/12/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 25,
+    "HoTen": "Vũ Ngọc Thy Ngân",
+    "NgaySinh": "05/07/2007",
+    "ChucVu": "Tổ trưởng tổ 2",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 26,
+    "HoTen": "Trần Thị Tuyết Nhung",
+    "NgaySinh": "20/12/2007",
+    "ChucVu": "Tổ trưởng tổ 4",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 27,
+    "HoTen": "Cao Văn Phúc",
+    "NgaySinh": "13/08/2007",
+    "ChucVu": "Lớp Trưởng",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 28,
+    "HoTen": "Ngô Trần Anh Phúc",
+    "NgaySinh": "04/10/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 29,
+    "HoTen": "Tôn Thất Minh Quân",
+    "NgaySinh": "08/11/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 30,
+    "HoTen": "Phan Trần Ngọc Quý",
+    "NgaySinh": "14/02/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 31,
+    "HoTen": "Mai Thúc Sinh",
+    "NgaySinh": "16/08/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 32,
+    "HoTen": "Lê Đỗ Minh Tài",
+    "NgaySinh": "22/04/2007",
+    "ChucVu": "TNXK",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 33,
+    "HoTen": "Đinh Nguyễn Minh Thơ",
+    "NgaySinh": "13/10/2007",
+    "ChucVu": "TNXK",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 34,
+    "HoTen": "Nguyễn Huỳnh Ánh Thư",
+    "NgaySinh": "16/07/2007",
+    "ChucVu": "Bí thư",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 35,
+    "HoTen": "Nguyễn Khánh Thy",
+    "NgaySinh": "01/04/2007",
+    "ChucVu": "Lớp phó học tập",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 36,
+    "HoTen": "Vũ Thủy Tiên",
+    "NgaySinh": "24/12/2007",
+    "ChucVu": "Thủ quỹ",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 37,
+    "HoTen": "Đào Nguyễn Diệp Tiền",
+    "NgaySinh": "14/05/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 38,
+    "HoTen": "Lê Minh Tiến",
+    "NgaySinh": "30/11/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 39,
+    "HoTen": "Huỳnh Đặng Quỳnh Trang",
+    "NgaySinh": "23/10/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 40,
+    "HoTen": "Phạm Minh Trang",
+    "NgaySinh": "17/11/2007",
+    "ChucVu": "Tổ trưởng tổ 3",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 41,
+    "HoTen": "Trần Ngọc Thanh Trúc",
+    "NgaySinh": "03/11/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 42,
+    "HoTen": "Lê Thành Trường",
+    "NgaySinh": "25/02/2007",
+    "ChucVu": "TNXK",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 43,
+    "HoTen": "Nguyễn Quang Vịnh",
+    "NgaySinh": "02/03/2007",
+    "ChucVu": "TNXK",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 44,
+    "HoTen": "Nguyễn Thảo Vy",
+    "NgaySinh": "13/08/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 45,
+    "HoTen": "Phan Thị Kim Yến",
+    "NgaySinh": "10/03/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  },
+  {
+    "STT": 46,
+    "HoTen": "Hoàng Hải Đăng",
+    "NgaySinh": "09/07/2007",
+    "ChucVu": "",
+    "ChiTiet": "Xem chi tiết"
+  }
+]

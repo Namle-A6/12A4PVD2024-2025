@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Group 12A4</title>
+
+    <!-- Font Awesome + Swiper -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+    <link rel="stylesheet" href="active.css" />
+  </head>
+  <body>
+    <!-- MAIN CONTENT -->
+    <div class="main">
+      <!-- Trang chủ -->
+      <div class="section">
+        <h3 style="text-align: center; font-style: italic">
+          Một hành trình thanh xuân tuyệt đẹp, lưu giữ từng khoảnh khắc của tuổi
+          học trò.
+        </h3>
+      </div>
+
+      <!-- Thành viên nhóm -->
+      <div class="section" id="members">
+        <h2>Thành viên nhóm "minhanhladoconheo"</h2>
+        <p style="text-align: center">
+          <i>
+            Chúng tôi là 4 người bạn thân thiết gắn bó qua những năm tháng học
+            trò, cùng nhau vượt qua nhiều kỷ niệm vui buồn dưới mái trường 12A6.
+          </i>
+        </p>
+
+        <div class="swiper">
+          <div class="swiper-wrapper">
+            <div
+              class="swiper-slide"
+              onclick="document.getElementById('member1').scrollIntoView({behavior:'smooth'});"
+            >
+              <img src="./img/Group/Mai/Mai.spg.jpg" alt="Member 1" />
+              <h4>Mai Đức Hoàng</h4>
+              <p>" Tèo"</p>
+            </div>
+            <div
+              class="swiper-slide"
+              onclick="document.getElementById('member2').scrollIntoView({behavior:'smooth'});"
+            >
+              <img
+                src="./img/Group/Anh/z6496511715238_04b2207f8bd64f951be80b4f9ba53278.jpg"
+                alt="Member 2"
+              />
+              <h4>Nguyễn Minh Anh</h4>
+              <p>"manh"</p>
+            </div>
+            <div
+              class="swiper-slide"
+              onclick="document.getElementById('member3').scrollIntoView({behavior:'smooth'});"
+            >
+              <img
+                src="./img/Group/Hiếu/z6496511560151_c9150b34e63b8c3814e59aa490eaaf7b.jpg"
+                alt="Member 3"
+              />
+              <h4>Hoàng Trung Hiếu</h4>
+              <p>"híu hòn"</p>
+            </div>
+            <div
+              class="swiper-slide"
+              onclick="document.getElementById('member4').scrollIntoView({behavior:'smooth'});"
+            >
+              <img src="./img/Group/Dũng/Dũng.jpg" alt="Member 4" />
+              <h4>Nguyễn Đức Dũng</h4>
+              <p>"duck yun"</p>
+            </div>
+          </div>
+          <!-- Nút điều hướng -->
+          <div class="swiper-button-prev"></div>
+          <div class="swiper-button-next"></div>
+        </div>
+      </div>
+
+      <!-- Chi tiết thành viên -->
+      <div class="section" id="details">
+        <h2>Chi tiết thành viên nhóm</h2>
+        <div id="member1" class="member-detail">
+          <img
+            src="./img/Group/Mai/z6496535915303_e4547762d2584f10e3d9a5e8cfba9b2e.jpg"
+            alt="Nguyễn Văn A"
+          />
+          <h3>Mai Đức Hoàng</h3>
+          <p>Ngày sinh: 11/12/2007</p>
+          <p>Biệt danh: Tèo</p>
+          <p>Sở thích: Du lịch</p>
+          <p>Ước mơ: Nghỉ hưu tuổi 35</p>
+        </div>
+
+        <div id="member2" class="member-detail">
+          <img src="./img/Group/Anh/Anh.jpg" alt="Nguyễn Văn B" />
+          <h3>Nguyễn Minh Anh</h3>
+          <p>Ngày sinh 28/05/2007</p>
+          <p>Biệt danh: manh</p>
+          <p>Sở thích: Coi f1</p>
+          <p>Ước mơ: Được nuôi con chó docberman</p>
+        </div>
+
+        <div id="member3" class="member-detail">
+          <img src="./img/Group/Hiếu/Hiếu.jpg" alt="Nguyễn Văn C" />
+          <h3>Hoàng Trung Hiếu</h3>
+          <p>Ngày sinh: 01/09/2007</p>
+          <p>Biệt danh: híu hòn</p>
+          <p>Sở thích:Ngủ</p>
+          <p>Ước mơ: ngủ thôi cũng giàu</p>
+        </div>
+
+        <div id="member4" class="member-detail">
+          <img
+            src="./img/Group/Dũng/z6496512191768_90157df7e342e25a2e567bbd272facd8.jpg"
+            alt="Nguyễn Văn D"
+          />
+          <h3>Nguyễn Đức Dũng</h3>
+          <p>Biệt danh: Chàng Khờ Cửa Bé</p>
+          <p>Sở thích: Moneyyy, bida</p>
+          <p>Ước mơ: Đại gia</p>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script>
+      const swiper = new Swiper(".swiper", {
+        slidesPerView: 1,
+        spaceBetween: 10,
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+      });
+    </script>
+  </body>
+</html>
